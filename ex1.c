@@ -21,4 +21,5 @@ int main(){
 	for(i=0;i<5;i++){
 		printf("%i \t %i \t %i \n", c[i][0], c[i][1], c[i][2]);
 	}
+	return 0;
 }
